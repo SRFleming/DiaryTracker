@@ -1,0 +1,45 @@
+
+@import url("https://use.typekit.net/dfh1kxl.css");
+@import url("https://use.typekit.net/dfh1kxl.css");
+
+
+.notnav {
+    padding-top: 180px;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.subtitle {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.btn {
+    float: left;
+    width: 250px;
+    margin: 0 auto;
+    background: #FFC02A;
+    border: 2px solid black;
+    padding: 0.6em;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: grey;
+}
+
+.start {
+    color: black;
+    font-size: 23px;
+}
+
+.AlreadyAccount {
+    position: absolute;
+    cursor:pointer;
+    font-size: 20px;
+    float: right;
+    bottom: 40px;
+    right: 4em;
+}

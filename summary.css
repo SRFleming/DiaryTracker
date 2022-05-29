@@ -1,0 +1,15 @@
+
+@import url("https://use.typekit.net/dfh1kxl.css");
+@import url("https://use.typekit.net/dfh1kxl.css");
+
+.entries {
+    border: 0px solid #EBEBEB;
+    width: 100%;
+    font-size: 20px;
+    padding: 20px;
+    outline: 0;
+    background: rgb(245,245,245);
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin:0em 0em 10px 0em;
+}

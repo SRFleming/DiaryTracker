@@ -1,0 +1,40 @@
+
+@import url("https://use.typekit.net/dfh1kxl.css");
+@import url("https://use.typekit.net/dfh1kxl.css");
+
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    row-gap: 20px;
+    width: 100%;
+}
+
+.entries {
+    text-align: center;
+    width: auto;
+    height: 110px;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 550px;
+    outline: 0;
+    background: rgb(245,245,245);
+    border: 2px solid grey;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.entries:hover {
+    background-color: #FFC02A;
+}
+
+.buttontitle {
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.buttonsubtitle {
+    font-size: 25px;
+}

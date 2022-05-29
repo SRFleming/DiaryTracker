@@ -1,0 +1,63 @@
+
+@import url("https://use.typekit.net/dfh1kxl.css");
+@import url("https://use.typekit.net/dfh1kxl.css");
+
+.title {
+    padding: 60px;
+    text-align: center;
+}
+
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    row-gap: 10px;
+    column-gap: 5px;
+    width: 80%;
+}
+
+.dates {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.entries {
+    text-align: center;
+    width: auto;
+    height: 100px;
+    width: 100px;
+    font-size: 20px;
+    margin: 0 auto;
+    outline: 0;
+    background: rgb(245,245,245);
+    border: 2px solid grey;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.arrow {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.arrow:hover {
+    font-size: 22px;
+}
+
+.entries:hover {
+    background-color: #FFC02A;
+}
+
+.buttontitle {
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.buttonsubtitle {
+    font-size: 25px;
+}
